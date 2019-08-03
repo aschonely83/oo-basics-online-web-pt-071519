@@ -6,7 +6,7 @@ class Shoe
   end
   
   def cobbler
-    puts "The shoe has been repaired"
+    puts "The shoe has been repaired and is new again."
   end  
   
 end  
